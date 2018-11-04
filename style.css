@@ -1,0 +1,9 @@
+<style>
+di.static {
+    position: static;
+    border: 3px solid #543535;
+}
+</style>
+<div class="static">
+    elemen ini menggunakan position: static;
+ </div>   
